@@ -1,0 +1,28 @@
+body{
+    margin: 0%;
+    height: 100%;
+}
+
+.parallax{
+    background-image: url("https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/3/2-mechanic-showing-customer-the-problem-with-car-at-the-repair-gar-anek-suwannaphoom.jpg");
+    height: 80vh;
+    width: 100%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.section3 {
+    text-align: center;
+    margin: 0%;
+}
+
+
+#section3{
+    text-align: center;
+    background-image: url("https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/2/zen-pond-in-forest-photography-of-banana-republic-images.jpg");
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
